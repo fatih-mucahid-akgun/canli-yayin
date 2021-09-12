@@ -1,2 +1,7 @@
 Merhaba
+<<<<<<< HEAD
 Hello world
+=======
+Ekstra eklemeler yaptık github üzerinden
+Denemeler denemesi aynı yerlerde değişiklik yaptık
+>>>>>>> a637c9bbf43bb65607b32ec424fc7eff420db513
